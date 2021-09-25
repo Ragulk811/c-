@@ -1,0 +1,7 @@
+D:\c#\app2\app2\bin\Debug\app2.exe.config
+D:\c#\app2\app2\bin\Debug\app2.exe
+D:\c#\app2\app2\bin\Debug\app2.pdb
+D:\c#\app2\app2\obj\Debug\app2.csproj.AssemblyReference.cache
+D:\c#\app2\app2\obj\Debug\app2.csproj.CoreCompileInputs.cache
+D:\c#\app2\app2\obj\Debug\app2.exe
+D:\c#\app2\app2\obj\Debug\app2.pdb
